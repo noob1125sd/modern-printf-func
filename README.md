@@ -12,4 +12,4 @@
 ## 🛠️ Компиляция
 
 ```bash
-gcc -o karaoke printsf.c
+gcc -o ./printsf printsf.c
